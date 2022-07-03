@@ -2,7 +2,7 @@
 ## The open source Midelpic site code!
 This GitHub Repository contains the code for the [Midelpic Site](https://site.midelpic.repl.co). 
 ###### If you don't know what Midelpic is:
-I, [Adelto](discordapp.com/users/993082070945517589), had the idea to make an alternative to discord. As a fun project of course. But, while thats sounds easy, it is not.  So, I got two of my friends to help me. But that didn't work either. So, now we are here. 
+I, [Adelto](discordapp.com/users/993082070945517589), and my friends had the idea to make an alternative to discord. As a fun project of course. But, while thats sounds easy, it is not.  So, I got two of my friends to help me. But that didn't work either. So, now we are here. 
 
 Midelpic is looking for talented HTML, JS and Python coders who are bored, or want to help us make this dream come true. Of course, as this is just a fun project (which might become a real site one day), you will not be paid to help. And to clear up any confusion, you don't NEED to help. If you just want to look at the progress or something else, your welcome anyway.
 
