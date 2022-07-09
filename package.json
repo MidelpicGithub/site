@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@minomi/minomi.db": "^1.1.0"
+  }
+}
